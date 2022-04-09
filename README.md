@@ -1,4 +1,4 @@
-# MS-Thesis-BS-Thesis-OrganizationalPsyn
+# MS-Thesis-BS-Thesis-OrganizationalPsy
 Master Thesis: Anchoring Effect &amp; Bachelor Thesis: Anchoring Effect
 
 Anchoring Effect as a Cognitive Bias
