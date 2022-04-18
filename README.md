@@ -1,7 +1,7 @@
 # MS-Thesis-BS-Thesis-AnchoringEffect-OrganizationalPsy
 Master Thesis: Anchoring Effect &amp; Bachelor Thesis: Anchoring Effect
 
-Anchoring Effect as a Cognitive Bias
+### Anchoring Effect as a Cognitive Bias
 
 Bulgarian language
 
